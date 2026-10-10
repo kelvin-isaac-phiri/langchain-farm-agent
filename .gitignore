@@ -1,0 +1,34 @@
+# secrets — never push
+.env
+.env.local
+*.pem
+
+# virtual environments
+.venv/
+venv/
+env/
+
+# python junk
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+
+# local DB created on first run
+agent_db.sqlite
+*.sqlite
+*.db
+
+# private / notes (not part of the public starter)
+plan.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
