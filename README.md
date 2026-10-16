@@ -80,7 +80,7 @@ Python · LangChain · LangGraph · Google Gemini · SQLite · DuckDuckGo
 
 If you want a ready **RAG platform** (upload docs → ask questions over your data), try:
 
-**https://rag.alginsystemltd.com**
+**https://rag.alignsystemsltd.com**
 
 ## License note
 
